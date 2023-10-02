@@ -4,13 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is Keyword Suggestion Tools than able to generate keywords from Google ,Youtube,Yahoo,Bing ,Amazon and Ebay.
+and this tool able to Extract tags from youtube videos just put your youtube video link that yout want to extract tags from it
+![Screenshot 2023-09-16 122326](https://github.com/Gemy-Dev/keywordtool/assets/57642488/3bfe246c-a270-482a-840f-aff08078a952)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 2023-09-16 122532](https://github.com/Gemy-Dev/keywordtool/assets/57642488/62c5791d-19e2-44ff-b25d-b210a5a53b44)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
