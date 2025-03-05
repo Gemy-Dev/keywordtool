@@ -57,7 +57,7 @@ This app is built using **Flutter** and relies on the following packages:
     ```
 2. Navigate into the project folder:
     ```bash
-    cd keyword-suggestion-tool
+    cd keyword_planner
     ```
 3. Install dependencies:
     ```bash
